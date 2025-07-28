@@ -63,11 +63,7 @@ PRIVATE_KEY='...' (used by Bcrypt, must be of 32 chars)
 ```
 
 
-## Contact
 
-My name is **shubham rajput** and this project has been realized by me as university laboratory activity for the exam in *Models and Methods for Application Security*, Master Degree in Computer Science, curriculum studies in Artificial Intelligence at Gb pant university of agriculture and technology ", India .
-
-My email - [skchauhan5502@gmail.com)
 
 
 ## Acknowledgments
